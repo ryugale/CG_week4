@@ -1,6 +1,6 @@
 # Week 4: Data Structures and Algorithms (DSA)
 
-Welcome to the repository for Week 3 of our Java learning journey. This week focused on 
+Welcome to the repository for Week 4 of our Java learning journey. This week focused on 
 understanding fundamental data structures and algorithmic concepts using Java.
 
 ## Table of Contents
@@ -15,7 +15,7 @@ understanding fundamental data structures and algorithmic concepts using Java.
 
 ## Overview
 
-The third week was dedicated to exploring core data structures and algorithmic strategies. Topics included working with linked lists, stacks, queues, hash maps, and common sorting and searching techniques. The week concluded with an introduction to algorithm complexity analysis using Big-O notation.
+The fourth week was dedicated to exploring core data structures and algorithmic strategies. Topics included working with linked lists, stacks, queues, hash maps, and common sorting and searching techniques. The week concluded with an introduction to algorithm complexity analysis using Big-O notation.
 
 ## Topics Covered
 
@@ -43,7 +43,7 @@ The third week was dedicated to exploring core data structures and algorithmic s
 - Analyzing efficiency of algorithms
 
 ## Prerequisites
-- Week 1 and Week 2 content familiarity (Java basics and OOP)
+- Week 1 - Week 3 content familiarity (Java basics and OOP)
 - Java Development Kit (JDK) installed
 - A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse
 
