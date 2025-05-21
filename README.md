@@ -6,10 +6,10 @@ understanding fundamental data structures and algorithmic concepts using Java.
 ## Table of Contents
 - Overview
 - Topics Covered
-  - 01 - Stack, Queue, HashMap & Hashing Functions
-  - 02 - Sorting Algorithms
-  - 03 & 04 - Linear & Binary Search
-  - 05 - Algorithm's Runtime Analysis & Big-O
+  - 01 & 02 - Stack, Queue, HashMap & Hashing Functions
+  - 03 & 04 - Sorting Algorithms
+  - 05 - Linear & Binary Search
+  - 06 - Algorithm's Runtime Analysis & Big-O
 - Prerequisites
 - How to Use This Repository
 
@@ -19,25 +19,25 @@ The third week was dedicated to exploring core data structures and algorithmic s
 
 ## Topics Covered
 
-### 01 - Stack, Queue, HashMap & Hashing Functions
+### 01 & 02 - Stack, Queue, HashMap & Hashing Functions
 - Stack implementation and operations (push, pop, peek)
 - Queue implementation and operations (enqueue, dequeue)
 - Introduction to HashMaps
 - Basic hashing concepts and functions
 
-### 02 - Sorting Algorithms
+### 03 & 04 - Sorting Algorithms
 - Bubble sort
 - Selection sort
 - Insertion sort
 - Basic understanding of how each sort works and its complexity
 
-### 03 & 04 - Linear & Binary Search
+### 05 - Linear & Binary Search
 - Linear search implementation
 - Binary search implementation
 - Prerequisites for binary search (sorted data)
 - Time complexity comparison
 
-### 05 - Algorithm's Runtime Analysis & Big-O
+### 06 - Algorithm's Runtime Analysis & Big-O
 - Understanding time and space complexity
 - Big-O notation
 - Analyzing efficiency of algorithms
